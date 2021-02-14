@@ -1,0 +1,1 @@
+# dotnet-5-fargate-web-application
